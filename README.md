@@ -40,6 +40,6 @@
 <h2 align="center">Principle</h2>
 <div align="center">
   <a href="#" target="_blank">
-    <img src="svg/nguyenphtc-text.svg" width="450" alt="" />
+    <img src="svg/nguyenphtc-text.svg" width="1200" alt="" />
   </a>
 </div>
